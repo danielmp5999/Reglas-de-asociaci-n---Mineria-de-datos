@@ -1,4 +1,4 @@
-# Reglas-de-asociaci-n---Mineria-de-datos
+# Reglas de asociacion Mineria-de-datos
 
 El objetivo de las reglas de asociación es encontrar asociaciones o
 correlaciones entre los elementos u objetos de bases de datos
